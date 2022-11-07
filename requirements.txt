@@ -33,4 +33,4 @@ sqlparse==0.4.3
 tenacity==8.1.0
 tzdata==2022.6
 urllib3==1.26.12
-
+whitenoise==6.2.0
