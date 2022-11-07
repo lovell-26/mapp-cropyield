@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-2ob@+x+92&tb$xj^gru5biezml-sc*3-s-)=#2+p+0c6t$h-j9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['cropyield-map.herokuapp.com']
 
 
 # Application definition
