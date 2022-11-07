@@ -1,4 +1,4 @@
-from turtle import fillcolor
+#from turtle import fillcolor
 from django.db import models
 import folium
 from folium import plugins
